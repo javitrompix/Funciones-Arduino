@@ -1,1 +1,1 @@
-Repositorio creado para compartir funciones de Arduino
+Repositorio creado para compartir funciones de Arduino.
